@@ -1,0 +1,10 @@
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.deps.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.runtimeconfig.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.runtimeconfig.dev.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.csprojAssemblyReference.cache
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.csproj.CopyComplete
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Infrastructure\Debug\netcoreapp3.1\Library.Infrastructure.genruntimeconfig.cache

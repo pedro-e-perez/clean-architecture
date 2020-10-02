@@ -1,0 +1,14 @@
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.IntegrationTest\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.IntegrationTest\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.IntegrationTest\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.IntegrationTest\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.deps.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.runtimeconfig.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.runtimeconfig.dev.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.csprojAssemblyReference.cache
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.AssemblyInfo.cs
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.csproj.CopyComplete
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.IntegrationTest\Debug\netcoreapp3.1\Library.IntegrationTest.genruntimeconfig.cache

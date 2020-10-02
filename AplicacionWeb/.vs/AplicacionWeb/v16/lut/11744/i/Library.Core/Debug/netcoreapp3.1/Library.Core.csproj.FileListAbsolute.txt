@@ -1,0 +1,7 @@
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.Core\Debug\netcoreapp3.1\Library.Core.deps.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\b\Library.Core\Debug\netcoreapp3.1\Library.Core.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Core\Debug\netcoreapp3.1\Library.Core.csprojAssemblyReference.cache
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Core\Debug\netcoreapp3.1\Library.Core.AssemblyInfoInputs.cache
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Core\Debug\netcoreapp3.1\Library.Core.AssemblyInfo.cs
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Core\Debug\netcoreapp3.1\Library.Core.csproj.CopyComplete
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\.vs\AplicacionWeb\v16\lut\0\i\Library.Core\Debug\netcoreapp3.1\Library.Core.dll

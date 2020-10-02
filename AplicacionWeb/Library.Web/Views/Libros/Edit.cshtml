@@ -1,0 +1,67 @@
+﻿@model LibroViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Libros</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ISBN" class="control-label"></label>
+                <input asp-for="ISBN" class="form-control" type="number" />
+                <span asp-validation-for="ISBN" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Titulo" class="control-label"></label>
+                <input asp-for="Titulo" class="form-control" />
+                <span asp-validation-for="Titulo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sinopsis" class="control-label"></label>
+                <input asp-for="Sinopsis" class="form-control" />
+                <span asp-validation-for="Sinopsis" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NPaginas" class="control-label"></label>
+                <input asp-for="NPaginas" class="form-control" />
+                <span asp-validation-for="NPaginas" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Active" /> @Html.DisplayNameFor(model => model.Active)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="EditorialesId" class="control-label">Editorial</label>
+                <select asp-for="EditorialesId" class="form-control" asp-items="@(new SelectList(@ViewBag.editoriales, "Id","Nombre"))">
+                    <option disabled selected>--- SELECT ---</option>
+                </select>
+                <span asp-validation-for="EditorialesId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AutoresIds" class="control-label">Editorial</label>
+                <select asp-for="AutoresIds" class="form-control" multiple="multiple" asp-items="@(new MultiSelectList(@ViewBag.autores, "Id","Nombre",ViewBag.autoresSelected))">
+                    <option disabled selected>--- SELECT ---</option>
+                </select>
+                <span asp-validation-for="AutoresIds" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

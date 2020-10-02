@@ -1,0 +1,15 @@
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.deps.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.runtimeconfig.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.runtimeconfig.dev.json
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Infrastructure.pdb
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Core.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\bin\Debug\netcoreapp3.1\Library.Core.pdb
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.csprojAssemblyReference.cache
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.AssemblyInfo.cs
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.csproj.CopyComplete
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.dll
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.pdb
+C:\Users\pedro_perez\Desktop\Prueba_Pedro_E_Perez\AplicacionWeb\Library.Infrastructure\obj\Debug\netcoreapp3.1\Library.Infrastructure.genruntimeconfig.cache
