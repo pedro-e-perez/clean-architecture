@@ -1,6 +1,6 @@
 # clean-architecture
-##Clean architecture .net core 3.1
-##Clean architecture
+## Clean architecture .net core 3.1
+## Clean architecture
 Applications that follow the Dependency Inversion Principle as well as the Domain-Driven Design (DDD) principles tend to arrive at a similar architecture. This architecture has gone by many names over the years. One of the first names was Hexagonal Architecture, followed by Ports-and-Adapters. More recently, it's been cited as the Onion Architecture or Clean Architecture. The latter name, Clean Architecture, is used as the name for this architecture in this e-book.
 
 The eShopOnWeb reference application uses the Clean Architecture approach in organizing its code into projects. You can find a solution template you can use as a starting point for your own ASP.NET Core on the ardalis/cleanarchitecture GitHub repository.
